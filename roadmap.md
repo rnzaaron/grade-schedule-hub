@@ -1,0 +1,3 @@
+- [x] Build schedule, report, and syllabus portal based on uploaded chapter and diagram.
+- [x] Add Excel grade upload, average computation, approval, and student/parent access.
+- [x] Connect school records and authentication through Lovable Cloud.
